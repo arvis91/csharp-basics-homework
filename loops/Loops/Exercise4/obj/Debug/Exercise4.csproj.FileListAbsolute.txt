@@ -1,0 +1,7 @@
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\arvis\OneDrive\Desktop\Programmēšana\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise4\obj\Debug\Exercise4.pdb
